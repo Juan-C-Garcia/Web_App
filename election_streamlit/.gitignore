@@ -1,0 +1,14 @@
+# iPython
+.ipynb*
+__pycache__*
+*.pyc
+
+# app
+.env
+scratch.ipynb
+data*
+environment.yml
+# *.pickle
+
+# macOS
+*.DS_Store
